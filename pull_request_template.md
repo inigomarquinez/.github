@@ -1,8 +1,4 @@
-This PR fixes:
+<type> [cicd | feature | fix | refactor | style | other]: <pr-title>
 
-Proposed changes:
- -
- -
- -
-
-Please notify review to: @inigomarquinez
+- <what's the focus of this PR>
+- <how to review this PR>
