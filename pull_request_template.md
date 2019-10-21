@@ -1,4 +1,13 @@
-<type> [cicd | feature | fix | refactor | style | other]: <pr-title>
+### Type:
+* [ ] cicd: helm, docker & cicd adjustments.
+* [ ] feature: new capabilities.
+* [ ] fix: bug, hotfix, etc.
+* [ ] refactor: enhacements.
+* [ ] style: changes in styles.
+* [ ] other: docs, tests.
 
-- <what's the focus of this PR>
-- <how to review this PR>
+### What's the focus of this PR:
+-
+
+### How to review this PR:
+-
