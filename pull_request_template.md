@@ -1,13 +1,37 @@
-### Type:
-* [ ] cicd: helm, docker & cicd adjustments.
-* [ ] feature: new capabilities.
-* [ ] fix: bug, hotfix, etc.
-* [ ] refactor: enhacements.
-* [ ] style: changes in styles.
-* [ ] other: docs, tests.
+### Main changes
 
-### What's the focus of this PR:
--
+- :bug: (fix)
+- :new: (feat)
+- :wrench: (chore)
+- :cloud: (ci)
+- :memo: (docs)
+- :art: (style)
+- :arrows_counterclockwise: (refactor)
+- :chart_with_upwards_trend: (perf)
+- :microscope: (test)
+- :bangbang: (breaking change)
 
-### How to review this PR:
--
+### Other changes
+
+- :bug: (fix)
+- :new: (feat)
+- :wrench: (chore)
+- :cloud: (ci)
+- :memo: (docs)
+- :art: (style)
+- :arrows_counterclockwise: (refactor)
+- :chart_with_upwards_trend: (perf)
+- :microscope: (test)
+- :bangbang: (breaking change)
+
+### Additional notes
+
+(optional)
+
+### Screenshots
+
+(optional)
+
+### Context
+
+- :ticket: Closes / Relates (GitHub ticket ref)
